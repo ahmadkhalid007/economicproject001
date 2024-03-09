@@ -3,5 +3,5 @@ This is my first repository
 auther ahmad khalid is good
 great
 a
-my name
+my name   is ahmad
 
